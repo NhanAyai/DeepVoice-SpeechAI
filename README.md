@@ -18,24 +18,16 @@ Dự án Deep Voice là một hệ thống trí tuệ nhân tạo sử dụng De
 - **Xử lý giọng nói:** MFCC, Spectrogram, WaveNet
 
 ## Cài đặt
-1. Clone repository:
+Clone repository:
    ```bash
-    https://github.com/Huynhnhu169/Deep_Voice.git
+    https://github.com/Huynhnhu169/Emotion_Recognition.git
    cd deep-voice
-   ```
-2. Cài đặt các thư viện cần thiết:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Chạy thử nghiệm mô hình:
-   ```bash
-   python web.py
    ```
 
 ## Cách sử dụng
 - Chạy lệnh: 
   ```bash
-  python web.py 
+  ipython web_emotion_detection.ipynb 
   ```
 - Màn hình sẽ hiển thị giao diện.
 - Người dùng có thể tải file âm thanh muốn nhận diện hoặc ghi âm trực tiếp.
