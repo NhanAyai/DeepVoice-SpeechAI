@@ -17,6 +17,15 @@ Dự án Deep Voice là một hệ thống trí tuệ nhân tạo sử dụng De
 - **Mô hình học sâu:** CNN, RNN, Transformer-based models
 - **Xử lý giọng nói:** MFCC, Spectrogram, WaveNet
 
+## Bộ Data dùng để train model
+- Data phân loại cảm xúc, giới tính
+  ```bash
+     https://www.kaggle.com/datasets/piyushagni5/berlin-database-of-emotional-speech-emodb
+  ```
+- Data phân loại vùng miền 
+  ```bash
+   https://www.kaggle.com/datasets/trnngci/vietnamese-speech-labeled-by-region
+  ```
 ## Cài đặt
 Clone repository:
    ```bash
