@@ -4,11 +4,13 @@
 Dự án Deep Voice là một hệ thống trí tuệ nhân tạo sử dụng Deep Learning để:
 - Nhận diện cảm xúc từ giọng nói.
 - Phân loại giới tính và vùng miền của người nói.
+- Nhận diện nội dung cuộc hội thoại.
 - Tạo giọng nói mới dựa trên đặc trưng của các giọng nói khác.
 
 ## Tính năng
 - **Nhận diện cảm xúc:** Hệ thống có thể phân tích và nhận diện các cảm xúc như vui, buồn, giận dữ, trung tính, v.v.
 - **Phân loại giới tính và vùng miền:** Xác định xem giọng nói thuộc về nam hay nữ, đồng thời nhận diện vùng miền dựa trên đặc điểm âm sắc.
+- **Nhận diện nội dung:** Phân tích và trả về nội dung của đoạn âm thanh đầu vào.
 - **Tạo giọng nói mới:** Mô phỏng giọng nói mới từ các đặc trưng giọng nói đầu vào.
 
 ## Công nghệ sử dụng
