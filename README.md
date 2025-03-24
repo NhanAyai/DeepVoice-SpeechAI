@@ -32,7 +32,7 @@ Dự án Deep Voice là một hệ thống trí tuệ nhân tạo sử dụng De
 Clone repository:
    ```bash
     https://github.com/Huynhnhu169/Emotion_Recognition.git
-   cd deep-voice
+   cd Emotion_Recognition
    ```
 
 ## Cách sử dụng
