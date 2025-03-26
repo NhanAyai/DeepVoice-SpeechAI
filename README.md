@@ -38,7 +38,7 @@ Clone repository:
 ## Cách sử dụng
 - Chạy lệnh: 
   ```bash
-  ipython web_emotion_detection.ipynb 
+  ipython web_Emotion_Recognition.ipynb 
   ```
 - Màn hình sẽ hiển thị giao diện.
 - Người dùng có thể tải file âm thanh muốn nhận diện hoặc ghi âm trực tiếp.
