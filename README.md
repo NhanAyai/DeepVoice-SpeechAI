@@ -69,8 +69,6 @@ The models were trained using the following datasets:
 * **Region Classification Data:**
     🌐 [Vietnamese Speech Labeled by Region](https://www.kaggle.com/api/v1/datasets/download/trnngci/vietnamese-speech-labeled-by-region)
 
-*(If you used other datasets for Content Recognition or Voice Synthesis, list them here. Explain where the data files should be placed in the repository structure for the notebooks to find them.)*
-
 ## 💻 Usage / Reproducibility
 
 This project includes Jupyter notebooks that demonstrate the system's capabilities.
@@ -102,11 +100,11 @@ Assuming a typical flow, you might need to run:
 1.  **`finetune_1layersLTSM.ipynb`**: To train or fine-tune the model(s). *Ensure you have the necessary training data set up as described in the [📊 Data](#--data) section.*
 2.  **`web_Emotion_Recognition.ipynb`**: To use the trained model(s) via the web interface.
 
-*(**Important:** Review your notebooks to confirm the correct running order and dependencies between them. Update these instructions accordingly.)*
-
 ## 🎉 Results
 
-*(This section is currently a placeholder. Once you have compelling results, figures, or demos, describe them here! Include screenshots of the web interface, plots of model performance, examples of synthesized speech, etc.)*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b43c4b68-3780-404f-9260-07538bda32c1" alt="Description of your image">
+</p>
 
 Showcase the exciting outcomes of your research! 🚀
 
